@@ -45,3 +45,9 @@
 * Demo https://hot5656.github.io/f2eW5ComicViewer/index.html
     - JavaScript
     - SCSS
+
+### The F2E challenge week 6 - Validation (™Ì≥Ê≈Á√“)
+* Code https://github.com/hot5656/f2eW6Validation
+* Demo https://hot5656.github.io/f2eW6Validation/index.html
+    - JavaScript
+    - SCSS
