@@ -51,3 +51,10 @@
 * Demo https://hot5656.github.io/f2eW6Validation/index.html
     - JavaScript
     - SCSS
+    
+### THe F2E week7 - Canvas Game
+* Code https://github.com/hot5656/f2eW7CanvasGame
+* Demo https://hot5656.github.io/f2eW7CanvasGame/
+    - CSS
+    - JavaScript
+    - canvas
