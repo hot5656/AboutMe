@@ -52,9 +52,22 @@
     - JavaScript
     - SCSS
     
-### THe F2E week7 - Canvas Game
+### THe F2E week7 - Canvas Game(網頁遊戲)
 * Code https://github.com/hot5656/f2eW7CanvasGame
 * Demo https://hot5656.github.io/f2eW7CanvasGame/
     - CSS
     - JavaScript
     - canvas
+    
+### THe F2E week8 - parallax scrolling(視差滾動)
+* Code https://github.com/hot5656/f2eW8ParallaxScrolling
+* Demo Site: https://hot5656.github.io/f2eW8ParallaxScrolling/index.html
+    - SCSS
+    - JavaScript
+    - TweenMax
+    
+### THe F2E week9 - Skill Tree(介面設計師 技能樹)
+* Code https://github.com/hot5656/f2eW9SkillTree
+* Demo https://hot5656.github.io/f2eW9SkillTree/index.html
+    - SCSS
+    - JavaScript
