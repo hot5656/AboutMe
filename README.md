@@ -2,6 +2,10 @@
 
 * E-Mail : kyp001@yahoo.com.tw
 
+## Record
+### The F2E challenge certificate(完賽證明)
+	* Link : https://www.thef2e.com/Certificate/-LDy0zDtHa09tlB_7XCC
+	
 ## Works
 
 ### Single page web design (單頁切版)
